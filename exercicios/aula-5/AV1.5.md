@@ -1,0 +1,20 @@
+# Registro individual — AV1.5
+
+**Limite: uma página.** Estudante: Heitor José Andrade de Oliveira · Data: 11/10/2026  
+**Critério de decisão:** avançar apenas com dados sintéticos e tarefa delimitada; não expor dados reais nem usar ferramenta externa sem autorização e condições confirmadas.
+**Encaminhamento do pedido e justificativa:** não colar chamado ou log real em assistente externo agora. A organização ainda não confirmou ferramenta autorizada, condições contratuais, retenção, treinamento, permissões ou política de dados. A equipe pode analisar a cópia didática sintética e revisar manualmente uma explicação ou proposta de teste, sem executar mudanças em produção.
+**Alternativa viável / comparação de viabilidade, risco e esforço:** fazer a análise manualmente com a cópia sintética e as regras R1–R4. É viável com os recursos descritos e evita exposição a um serviço não autorizado, embora possa exigir mais tempo que um assistente.
+
+| Regra | Trecho do enunciado que justifica a regra | Risco e consequência | Ação para tratar o risco | Responsável | Registro proposto para conferir o cumprimento |
+|---|---|---|---|---|---|
+| 1 — dados | “O chamado poderia conter identificação de colaborador, texto livre sobre incidente e informações de acesso”; ferramenta e permissões ainda não confirmadas. | Enviar dados identificáveis ou de acesso a serviço externo pode expô-los sem autorização ou controle conhecido. | Não enviar chamados/logs reais. Para avançar, usar somente a cópia sintética em tarefa delimitada; não usar ferramenta externa até a confirmação formal de ferramenta e condições. | Pessoa da manutenção, com esclarecimento da pessoa responsável por segurança. | Lista datada e identificada: material usado (sintético/real), conferência de ausência de dados reais, ferramenta/destino e autorização verificada antes de qualquer envio. |
+| 2 — resultado | “A manutenção pode revisar manualmente uma explicação ou proposta de teste”; “não há autorização para executar alteração em produção”. | Uma resposta incorreta ou um teste inadequado pode levar a conclusão errada ou mudança não autorizada. | Conferir explicação e teste contra R1–R4 usando entradas sintéticas; registrar divergências e decisão do revisor. Não executar alteração em produção com base na resposta. | Pessoa da manutenção revisora; gestora da manutenção para decisões de encaminhamento. | Registro datado com tarefa, regras conferidas, teste/resultado esperado, divergências, decisão e identificação de quem revisou; sem conteúdo real de chamados/logs. |
+
+**Informação ausente que importa para minha escolha:** quais ferramentas estão autorizadas e quais são as regras de envio, retenção, treinamento e acesso aos dados.  
+**Tratamento de exceção (encaminhamento, responsável e registro):** a pessoa da manutenção solicita a exceção à gestora e à pessoa responsável por segurança, descrevendo finalidade, dados, ferramenta e controles necessários. Elas esclarecem as condições e registram decisão, escopo, responsáveis e prazo antes de qualquer envio; até lá, mantém-se a alternativa sintética/manual.
+**Condição/evidência que mudaria minha decisão:** confirmação registrada de ferramenta autorizada, permissões e condições de tratamento compatíveis com os dados e a tarefa. Isso permitiria reavaliar o uso dentro do escopo aprovado; mudança em produção continuaria exigindo autorização própria.
+
+**Origem dos dados e da análise:** pedido e fatos hipotéticos do enunciado; proposta elaborada a partir deles. Nenhum chamado/log real utilizado.  
+**Uso de IA neste registro:** GitHub Copilot; modelo específico não informado. Tarefa/contexto: ajudar a estruturar respostas para a AV1.5 com base no enunciado fornecido. Trechos foram confrontados com os fatos do enunciado; encaminhamento e regras são propostas, não aprovações ou ações realizadas.
+
+**Revisão:** [X] decisão/alternativa; [X] duas regras completas; [X] exceção/limite; [X] uma página.
