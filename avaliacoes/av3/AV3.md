@@ -77,6 +77,6 @@ Condição proposta de interrupção / quem age: se houver qualquer divergência
 
 **Procedência:** materiais simulados reaproveitados: contrato R1–R4, registros de AV1/AV2, caso Fila Clara e dados sintéticos; observações próprias: a IA deve ser assistiva e não decisória; inferências: recomendação de uso condicionado e limites de maturidade; passos e metas propostos: matriz de regra, revisão humana, métrica 90% de conformidade. 
 
-**IA:** assistente de escrita/estruturação usado para ordenar e revisar linguagem; data: 12/10/2026; tarefa/contexto: redação do parecer de AV3; trecho aproveitado: estrutura e estilo do texto; verificação e intervenção próprias: cada afirmação foi confrontada com o contrato, com o caso e com as referências L0; melhoras foram reavaliadas em relação à regra e à evidência. 
+**IA:** assistente de escrita/estruturação usado para ordenar e revisar linguagem; data: 12/10/2026; tarefa/contexto: revisão do parecer de AV3; trecho aproveitado: estrutura e estilo do texto; verificação e intervenção próprias: cada afirmação foi confrontada com o contrato, com o caso e com as referências L0; melhoras foram reavaliadas em relação à regra e à evidência. 
 
 **Checklist:** [x] alternativas; [x] autonomia; [x] evidência/contraponto; [x] dois riscos; [x] maturidade/métrica; [x] duas fontes aplicadas; [x] procedência; [x] 3+2 páginas.
